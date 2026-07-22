@@ -30,11 +30,8 @@ Building scalable production systems with a focus on backend architecture, high-
 
 <img src="https://komarev.com/ghpvc/?username=samirsinghkshatriya&style=for-the-badge&color=0A66C2" />
 
-</div>
-
 <br/><br/>
 
-<p>
    <a href="#-about-me">About</a> ·
    <a href="#-engineering-impact">Impact</a> ·
   <a href="#-dsa--problem-solving">DSA</a> ·
@@ -43,7 +40,6 @@ Building scalable production systems with a focus on backend architecture, high-
   <a href="#-github-stats">Stats</a> ·
   <a href="#-lets-connect">Connect</a>
 
-</p>
 <br/><br/>
 
 > *"Good code ships features. Great engineering ships reliability — measured, optimized, and built to scale."*
