@@ -98,7 +98,7 @@ Building scalable production systems with a focus on backend architecture, high-
 
 ☁️ &nbsp;Comfortable across **Docker, AWS ECS, GitHub Actions, Redis caching, JWT/OAuth, and Socket.io**
 
-🎓 &nbsp;B.E. Computer Engineering, SAL Institute of Technology and Engineering Research — **CGPA 9.4**
+🎓 &nbsp;B.E. Computer Engineering, Gujarat Technological University — **CGPA 9.4**
 
 🌐 &nbsp;Portfolio → **[kshatriyasamirsingh.vercel.app](https://samirsir-portfolio.vercel.app/)**
 
