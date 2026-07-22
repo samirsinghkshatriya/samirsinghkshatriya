@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Samir Singh Kshatriya Banner" src="banner.png"/>
+<img width="100%" alt="Samir Singh Kshatriya Banner" src="banner.jpeg"/>
 
 <br><br>
 
