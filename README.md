@@ -53,7 +53,7 @@
 | | |
 |---|---|
 | 🧝 **Class** | SDE-II · Full-Stack MERN Engineer |
-| 🏰 **Guild** | Coding Gita, Gandhinagar |
+| 🏰 **Guild** | Coding Gita, Kalol, Gandhinagar |
 | 🧙 **Guild Role** | Mentor — guiding engineers on architecture & code quality |
 | ⏳ **Years Active** | 3.5+ (2023 – Present) |
 | 🎯 **Specialization** | Backend Architecture · API Design · Performance Tuning |
