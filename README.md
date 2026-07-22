@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=06B6D4&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Samir+%F0%9F%91%8B;SDE-II+%40+Coding+Gita;Mentoring+Engineers+%E2%80%A2+Shipping+Production+Systems;3.5%2B+Years+Building+Production+Web+Apps;Backend+Architecture+%E2%80%A2+API+Design+%E2%80%A2+Performance;300%2B+DSA+Problems+Solved+on+LeetCode;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=06B6D4&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Samir+%F0%9F%91%8B;SDE-II+%40+Coding+Gita;Mentoring+Engineers+%E2%80%A2+Shipping+Production+Systems;3.5%2B+Years+Building+Production+Web+Apps;Backend+Architecture+%E2%80%A2+API+Design+%E2%80%A2+Performance;400%2B+DSA+Problems+Solved+on+LeetCode;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker" alt="Typing SVG"/>
 
 <br/><br/>
 
