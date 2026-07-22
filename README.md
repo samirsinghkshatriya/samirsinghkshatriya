@@ -161,7 +161,7 @@ Builds and maintains end-to-end MERN applications; optimized MongoDB schemas, in
 <tr>
 <td valign="top"><b>04/2024 – 06/2025</b></td>
 <td>
-<b>SDE-I</b> · Arsh Edtech — <i>Ahmedabad, Gujarat</i><br/>
+<b>SDE-I</b> · Arsh tech pvt LTD — <i>Remote, Gujarat</i><br/>
 Shipped a multi-tenant MERN application; improved P95 response time by 47% via Node/Express optimization, Redis caching, and indexed MongoDB queries. Designed REST/GraphQL APIs with JWT/OAuth, cutting auth errors 60%. Built CI/CD with Docker, GitHub Actions, and AWS ECS — deploy time down from 45 min to 7 min.
 </td>
 </tr>
