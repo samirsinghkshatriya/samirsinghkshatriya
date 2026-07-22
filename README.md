@@ -1,22 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,20:0F172A,40:1E293B,60:0F766E,80:0891B2,100:2563EB&text=Samir%20Singh%20Kshatriya&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=twinkling&desc=SDE-II%20%E2%80%A2%20Full-Stack%20MERN%20Engineer%20%E2%80%A2%20Mentor%20%40%20Coding%20Gita&descAlignY=58&descSize=17"/>
+<img width="100%" alt="Samir Singh Kshatriya Banner" src="banner.png"/>
 
-<br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=06B6D4&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Samir+%F0%9F%91%8B;SDE-II+%40+Coding+Gita;Mentoring+Engineers+%E2%80%A2+Shipping+Production+Systems;3.5%2B+Years+Building+Production+Web+Apps;Backend+Architecture+%E2%80%A2+API+Design+%E2%80%A2+Performance;400%2B+DSA+Problems+Solved+on+LeetCode;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+Docker" alt="Typing SVG"/>
+# Hi, I'm Samir Singh Kshatriya 👋
 
-<br/><br/>
+### SDE-II • Backend Architecture • Performance Engineering • Mentor @ CodingGita
 
-<img src="https://komarev.com/ghpvc/?username=samirsinghkshatriya&color=0891B2&style=for-the-badge&label=PROFILE+VIEWS"/>
-&nbsp;
-<a href="https://github.com/samirsinghkshatriya?tab=followers"><img src="https://img.shields.io/github/followers/samirsinghkshatriya?color=2563EB&style=for-the-badge&logo=github&label=FOLLOWERS"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/SDE--II-Coding%20Gita-059669?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MENTOR-Coding%20Gita-7C3AED?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO-WORK-f59e0b?style=for-the-badge"/>
+Building scalable production systems with a focus on backend architecture, high-performance APIs, cloud infrastructure, and developer experience.
+
+<p>
+  <a href="https://kshatriyasamirsingh.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/samirsinghkshatriya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kshatriya-samir-singh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:samirsinghkshatriya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=samirsinghkshatriya&style=for-the-badge&color=0A66C2" />
+
+</div>
 
 <br/><br/>
 
