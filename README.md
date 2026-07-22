@@ -102,7 +102,7 @@ Building scalable production systems with a focus on backend architecture, high-
 
 🌐 &nbsp;Portfolio → **[kshatriyasamirsingh.vercel.app](https://samirsir-portfolio.vercel.app/)**
 
-📫 &nbsp;**[samirsinghkshatriya@gmail.com](mailto:samirsinghkshatriya@gmail.com)**
+📫 &nbsp;GMail → **[samirsinghkshatriya@gmail.com](mailto:samirsinghkshatriya@gmail.com)**
 
 <br/>
 
