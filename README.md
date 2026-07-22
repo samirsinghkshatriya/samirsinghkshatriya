@@ -258,7 +258,7 @@ Engineered responsive front-end solutions with HTML5, CSS3/SASS, and JavaScript 
 
 ## 🎓 Education
 
-🎓 **B.E., Computer Engineering** — SAL Institute of Technology and Engineering Research (2019 – 2023)
+🎓 **B.E., Computer Engineering** — Gujarat Technological University (2019 – 2023)
 **CGPA: 9.4**
 
 ---
@@ -269,7 +269,7 @@ Engineered responsive front-end solutions with HTML5, CSS3/SASS, and JavaScript 
 
 <a href="https://www.linkedin.com/in/kshatriya-samir-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://kshatriyasamirsingh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://samirsir-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:samirsinghkshatriya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
