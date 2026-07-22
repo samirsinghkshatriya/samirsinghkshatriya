@@ -100,7 +100,7 @@ Building scalable production systems with a focus on backend architecture, high-
 
 🎓 &nbsp;B.E. Computer Engineering, SAL Institute of Technology and Engineering Research — **CGPA 9.4**
 
-🌐 &nbsp;Portfolio → **[kshatriyasamirsingh.vercel.app](https://kshatriyasamirsingh.vercel.app/)**
+🌐 &nbsp;Portfolio → **[kshatriyasamirsingh.vercel.app]([https://samirsir-portfolio.vercel.app/])**
 
 📫 &nbsp;**[samirsinghkshatriya@gmail.com](mailto:samirsinghkshatriya@gmail.com)**
 
