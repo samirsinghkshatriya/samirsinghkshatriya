@@ -11,7 +11,7 @@
 Building scalable production systems with a focus on backend architecture, high-performance APIs, cloud infrastructure, and developer experience.
 
 <p>
-  <a href="https://kshatriyasamirsingh.vercel.app">
+  <a href="https://samirsir-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
