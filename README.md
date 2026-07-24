@@ -135,7 +135,7 @@ Building scalable production systems with a focus on backend architecture, high-
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/zero-byte/"><img src="https://img.shields.io/badge/LeetCode%20Profile-zero--byte-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/zero-b/"><img src="https://img.shields.io/badge/LeetCode%20Profile-zero--byte-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
 
@@ -275,7 +275,7 @@ Engineered responsive front-end solutions with HTML5, CSS3/SASS, and JavaScript 
 &nbsp;
 <a href="https://github.com/samirsinghkshatriya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://leetcode.com/u/zero-byte/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/zero-by/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
